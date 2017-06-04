@@ -1,17 +1,17 @@
 {
   "name": "homebridge-BLEDoorOpener",
   "version": "0.0.1",
-  "description": "Sample Platform plugin for homebridge: https://github.com/nfarina/homebridge",
+  "description": "Triggers an BLE switch designed to open Garage Doors.",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/example/homebridge.git"
+    "url": "git://github.com/bluephlame/homebridge-BLEDoorOpener.git"
   },
   "bugs": {
-    "url": "http://github.com/example/homebridge/issues"
+    "url": "http://github.com/bluephlame/homebridge-BLEDoorOpener/issues"
   },
   "engines": {
     "node": ">=0.12.0",
